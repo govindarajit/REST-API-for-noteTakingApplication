@@ -1,0 +1,23 @@
+{
+  "name": "rest-api-for-notetakingapplication",
+  "version": "1.0.0",
+  "description": "Take notes and do your work on time",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose"
+  ],
+  "author": "GOVINDARAJ",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.1"
+  }
+}
